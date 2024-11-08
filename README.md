@@ -1,0 +1,2 @@
+# NitroGenerator
+jsのNitroGenerator笑
