@@ -1,0 +1,11 @@
+{
+  "name": "fake-nitro-generator",
+  "version": "1.0.0",
+  "description": "Generate fake Nitro links for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ryo",
+  "license": "MIT"
+}
